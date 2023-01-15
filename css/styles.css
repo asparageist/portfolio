@@ -6,7 +6,18 @@
   background-color: red;
   border: 5px solid black;
   border-radius: 10px;
-  margin: auto
+  margin: auto;
+}
+
+.card {
+  width: 25%;
+  float: left;
+  text-align: left;
+  color: white;
+  background-color: red;
+  border: 5px solid black;
+  border-radius: 10px;
+  margin: auto;
 }
 
 .largetext{
@@ -15,4 +26,8 @@
 
 .smalltext{
   font-size: 20px;
+}
+
+img{
+  display: block;
 }
