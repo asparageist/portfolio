@@ -9,6 +9,10 @@
   margin: auto;
 }
 
+.rights{
+  text-align: right;
+}
+
 .card {
   width: 25%;
   float: left;
