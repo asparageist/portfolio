@@ -24,6 +24,17 @@
   padding: 10px;
 }
 
+.finalcard {
+  width: 75%;
+  float: center;
+  text-align: center;
+  color: white;
+  background: -webkit-linear-gradient(black, red);
+  border: 5px solid black;
+  border-radius: 10px;
+  margin: auto;
+}
+
 .largetext{
   font-size: 80px;
 }
@@ -51,4 +62,8 @@ img{
   width: 85%;
   border: 5px solid black;
   border-radius: 20px;
+}
+
+body{
+  background: -webkit-radial-gradient(black, white);
 }
