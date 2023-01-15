@@ -1,10 +1,10 @@
 # _Portfolio_
 
+# https://github.com/asparageist/portfolio
+
 #### By Joseph Murray
 
 #### My first attempt at a professional coding portfolio.
-
-## https://github.com/asparageist/portfolio
 
 ## Technologies Used
 
