@@ -33,6 +33,10 @@ p{
   margin: auto;
 }
 
+a{
+  color: white;
+}
+
 img{
   display: block;
   margin: auto;
