@@ -17,7 +17,7 @@
   background-color: red;
   border: 5px solid black;
   border-radius: 10px;
-  margin: auto;
+  padding: 10px;
 }
 
 .largetext{
